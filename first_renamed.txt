@@ -1,0 +1,3 @@
+komal unstaged file 3 notepad
+unmodifying git file 
+modified file
